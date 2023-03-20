@@ -45,7 +45,7 @@ import sys
 import os
 
 # In the command below, replace <username> with your Databricks user name.
-sys.path.append(os.path.abspath('/Workspace/Repos/<username>/supplemental_files'))
+sys.path.append(os.path.abspath('/Workspace/Repos/raghava.krishna@biogen.com/sample'))
 
 # You can now import Python modules from the supplemental_files repo.
 # import lib
